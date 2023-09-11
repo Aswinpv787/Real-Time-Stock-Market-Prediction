@@ -18,8 +18,7 @@
 ## Getting Started:
 
 1. Clone this repository to your local machine.
-2. Install the required Python packages using `pip install -r requirements.txt`.
-3. Explore the Jupyter notebooks to dive into the analysis and code implementation.
+2. Explore the Google colab to dive into the analysis and code implementation.
 
 ## Connect with Us:
 
